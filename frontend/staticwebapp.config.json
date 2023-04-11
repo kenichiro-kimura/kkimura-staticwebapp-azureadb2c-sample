@@ -25,7 +25,7 @@
                 "clientSecretSettingName": "B2C_SECRET"
               },
               "openIdConnectConfiguration": {
-                "wellKnownOpenIdConfiguration": ""
+                "wellKnownOpenIdConfiguration": "https://kkimurastaticwebappb2ctest.b2clogin.com/kkimurastaticwebappb2ctest.onmicrosoft.com/v2.0/.well-known/openid-configuration?p=B2C_1_staticSignUpSignIn"
               }
             },
             "login": {
