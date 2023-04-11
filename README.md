@@ -1,0 +1,1 @@
+# kkimura-staticwebapp-azureadb2c-sample
